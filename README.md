@@ -1,3 +1,7 @@
+<p align="center"><img width=50% src="https://raw.githubusercontent.com/DataCloud-project/toolbox/master/docs/img/datacloud_logo.png"></p>&nbsp;
+
+[![GitHub Issues](https://img.shields.io/github/issues/DataCloud-project/Monitoring-and-Drift-Detection-Libraries.svg)](https://github.com/DataCloud-project/Monitoring-and-Drift-Detection-Libraries/issues)
+
 # Monitoring-and-Drift-Detection-Libraries
 
 This component will provide a set of tools that works in collaboration with the Monitoring solution 
