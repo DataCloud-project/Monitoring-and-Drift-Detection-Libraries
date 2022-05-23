@@ -1,4 +1,5 @@
-<p align="center"><img width=50% src="https://raw.githubusercontent.com/DataCloud-project/toolbox/master/docs/img/datacloud_logo.png"></p>&nbsp;
+<p align="center"><img width=50% src="https://raw.githubusercontent.com/DataCloud-project/DEP-PIPE-translator/main/img/DEPPIPE_Logo_TransparentBackground_White.png"></p>&nbsp;
+
 
 [![GitHub Issues](https://img.shields.io/github/issues/DataCloud-project/Monitoring-and-Drift-Detection-Libraries.svg)](https://github.com/DataCloud-project/Monitoring-and-Drift-Detection-Libraries/issues)
 
